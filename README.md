@@ -1,3 +1,3 @@
 # odin-recipes
 
-Este Projeto está sendo realizado para o curso The Odin Project com o tema de site com receitas, o site ele está em HTML puro sem nenhuma utilização de outra ferramenta.
+This project is being carried out for the course The Odin Project with the theme of website with recipes, the site it is in pure HTML without any use of another tool.
